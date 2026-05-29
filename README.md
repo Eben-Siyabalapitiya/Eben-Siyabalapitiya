@@ -60,9 +60,10 @@ I believe in building first, learning by doing, and making things that actually 
 
 ## Let's Connect & Build
 
+- **Portfolio:** [ebensiyabalapitiya.site](https://ebensiyabalapitiya.site/)
 - **LinkedIn:** [Eben Siyabalapitiya](https://www.linkedin.com/in/eben-siyabalapitiya/)
+- **Email:** [ebeneleshapen45@gmail.com](mailto:ebeneleshapen45@gmail.com)
 - **GitHub:** [@Eben-Siyabalapitiya](https://github.com/Eben-Siyabalapitiya)
-- **Email:** [Get in touch!](mailto:your-email@example.com)
 
 ---
 
