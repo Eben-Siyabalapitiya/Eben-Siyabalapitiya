@@ -1,4 +1,4 @@
-# Hi there, I'm Eben siyabalapitiya
+# Hi there, I'm Eben Siyabalapitiya
 
 I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and physical engineering** — whether that's training models, writing code that talks to hardware, designing parts in CAD, or building full-stack projects from scratch.
 
