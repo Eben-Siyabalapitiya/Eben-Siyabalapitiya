@@ -1,10 +1,18 @@
 # Hi there, I'm Eben Siyabalapitiya
 
-I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and physical engineering** — whether that's training models, writing code that talks to hardware, designing parts in CAD, or building full-stack projects from scratch.
+I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and hardware**.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eben-Siyabalapitiya&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Eben-Siyabalapitiya&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/Eben-Siyabalapitiya/Eben-Siyabalapitiya/output/github-contribution-grid-snake-dark.svg)
 
 ## What I Build
 
-I'm driven by the STEAM philosophy and love working across different disciplines. Most of my projects start as something I wanted to build, and many of them have turned into real, functioning systems:
+I'm driven by the STEAM philosophy and love working across different disciplines. Most of my projects start as something I wanted to build, and many of them have turned into real, functioning systems.
 
 - **Computer Vision & AI Systems** - Real-time object detection, tracking, and autonomous targeting
 - **Robotics & Mechatronics** - Custom robotic systems with hardware control and precision engineering
@@ -22,7 +30,7 @@ An ML-powered plant disease detector trained on 70,000+ images across 38 disease
 - **Tech:** Python, TensorFlow, TFLiteConverter, Computer Vision
 
 ### AI Vision Tracking System
-Real-time object tracking system using Python, OpenCV, and YOLO. Detects and follows people through a webcam feed, identifies humans only, assigns consistent IDs, and sends processed position data via serial communication for hardware integration.
+Real-time object tracking system using Python, OpenCV, and YOLO. Detects and follows people through a webcam feed, identifies humans only, assigns consistent IDs, and sends processed position data.
 - **Tech:** Python, OpenCV, YOLO, Serial I/O
 
 ### Robotic Arm
@@ -30,7 +38,7 @@ Custom-built robotic arm controlled with 420 motors and an ESP32. Features 16-to
 - **Tech:** Robotics, ESP32, CAD, 3D Printing
 
 ### MiniBot
-A competition robot designed to stack and flip cubes in a quantum-themed arena game. Three iterations of design, back-to-back first place finishes. Built with custom mechanics and intelligent control systems.
+A competition robot designed to stack and flip cubes in a quantum-themed arena game. Three iterations of design, back-to-back first place finishes. Built with custom mechanics and intelligent control.
 - **Tech:** Robotics, CAD, 3D Printing, Competition Engineering
 
 ## Technical Stack
@@ -56,7 +64,7 @@ A competition robot designed to stack and flip cubes in a quantum-themed arena g
 
 ## Philosophy
 
-I believe in building first, learning by doing, and making things that actually work. I love the challenge of bridging the gap between digital and physical — making code control real-world systems. Open to collaboration on projects that push boundaries!
+I believe in building first, learning by doing, and making things that actually work. I love the challenge of bridging the gap between digital and physical — making code control real-world systems.
 
 ## Let's Connect & Build
 
