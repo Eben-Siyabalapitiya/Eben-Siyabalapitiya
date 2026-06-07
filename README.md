@@ -4,7 +4,7 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eben-Siyabalapitiya&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eben-Siyabalapitiya&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Eben-Siyabalapitiya&theme=tokyonight)
 
