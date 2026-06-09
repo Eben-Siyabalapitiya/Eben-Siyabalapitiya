@@ -11,8 +11,6 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ---
 
-## 🏆 Achievements
-
 <div align="center">
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Eben-Siyabalapitiya&theme=dark&no-frame=true&row=1)](https://github.com/Eben-Siyabalapitiya)
@@ -21,7 +19,6 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -62,7 +59,7 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 I'm driven by the STEAM philosophy and love working across different disciplines. Most of my projects start as something I wanted to build, and many of them have turned into real, functioning systems.
 
@@ -73,7 +70,7 @@ I'm driven by the STEAM philosophy and love working across different disciplines
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### Auto-Targeting Turret System
 A computer vision turret that detects and locks onto red targets in real-time. Tracks movement, calculates offset and distance, and sends live commands to an ESP32 for physical aim control.
@@ -97,7 +94,7 @@ A competition robot designed to stack and flip cubes in a quantum-themed arena g
 
 ---
 
-## 💡 Always Learning
+## Always Learning
 
 - Advanced autonomous systems
 - Embedded AI on edge devices
@@ -106,7 +103,7 @@ A competition robot designed to stack and flip cubes in a quantum-themed arena g
 
 ---
 
-## 🤝 Let's Connect & Build
+## Let's Connect & Build
 
 <div align="center">
 
