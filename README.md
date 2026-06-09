@@ -8,28 +8,6 @@
 </div>
 
 I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and hardware**.
-
----
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Eben-Siyabalapitiya&theme=dark&no-frame=true&row=1)](https://github.com/Eben-Siyabalapitiya)
-
-</div>
-
----
-
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eben-Siyabalapitiya&show_icons=true&theme=tokyonight)](https://github.com/Eben-Siyabalapitiya)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eben-Siyabalapitiya&layout=compact&theme=tokyonight)](https://github.com/Eben-Siyabalapitiya)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eben-Siyabalapitiya&theme=tokyonight)](https://github.com/Eben-Siyabalapitiya)
-
-</div>
-
 ---
 
 ## 🐍 Contribution Graph
