@@ -13,17 +13,25 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ## 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Eben-Siyabalapitiya&theme=dark&no-frame=true&row=1)
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Eben-Siyabalapitiya&theme=dark&no-frame=true&row=1)](https://github.com/Eben-Siyabalapitiya)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eben-Siyabalapitiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eben-Siyabalapitiya&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eben-Siyabalapitiya&show_icons=true&theme=tokyonight)](https://github.com/Eben-Siyabalapitiya)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eben-Siyabalapitiya&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eben-Siyabalapitiya&layout=compact&theme=tokyonight)](https://github.com/Eben-Siyabalapitiya)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eben-Siyabalapitiya&theme=tokyonight)](https://github.com/Eben-Siyabalapitiya)
+
+</div>
 
 ---
 
