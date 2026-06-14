@@ -41,7 +41,7 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 I'm driven by the STEAM philosophy and love working across different disciplines. Most of my projects start as something I wanted to build, and many of them have turned into real, functioning systems.
 
-- **Computer Vision & AI Systems** - Real-time object detection, tracking, and autonomous targeting
+- **Computer Vision & AI Systems** - Real time object detection, tracking, and autonomous targeting
 - **Robotics & Mechatronics** - Custom robotic systems with hardware control and precision engineering
 - **Machine Learning** - Training models for specialized tasks like plant disease detection
 - **Full-Stack Development** - Bringing projects to life across the software stack
