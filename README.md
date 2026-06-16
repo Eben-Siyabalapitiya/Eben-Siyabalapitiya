@@ -77,6 +77,8 @@ A competition robot designed to stack and flip cubes in a quantum-themed arena g
 - Advanced autonomous systems
 - Embedded AI on edge devices
 - Next gen robotics frameworks
+- Automotive systems & controls
+
 
 ---
 
