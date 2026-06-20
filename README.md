@@ -10,13 +10,12 @@
 I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and hardware**.
 ---
 
-## 🐍 Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/Eben-Siyabalapitiya/Eben-Siyabalapitiya/output/dist/github-contribution-grid-snake-dark.svg)
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
