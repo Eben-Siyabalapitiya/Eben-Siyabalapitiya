@@ -62,11 +62,6 @@ An ML-powered plant disease detector trained on 70,000+ images across 38 disease
 Real-time object tracking system using Python, OpenCV, and YOLO. Detects and follows people through a webcam feed, identifies humans only, assigns consistent IDs, and sends processed position data to serial devices.
 - **Tech:** Python, OpenCV, YOLO, Serial I/O
 
-### Robotic Arm
-
-### MiniBot
-
-
 ## Always Learning
 
 - Advanced autonomous systems
