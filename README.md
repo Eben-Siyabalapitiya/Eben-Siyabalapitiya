@@ -67,9 +67,7 @@ Custom-built robotic arm controlled with 420 motors and an ESP32. Features 16-to
 - **Tech:** Robotics, ESP32, CAD, 3D Printing
 
 ### MiniBot
-A competition robot designed to stack and flip cubes in a quantum-themed arena game. Three iterations of design, back-to-back first place finishes. Built with custom mechanics and intelligent control systems.
-- **Tech:** Robotics, CAD, 3D Printing, Competition Engineering
-
+A competition robot designed to stack and flip cubes in a quantum-themed arena game. Three iterations of design, back-to-back first place finishes. Built with custom 
 ---
 
 ## Always Learning
