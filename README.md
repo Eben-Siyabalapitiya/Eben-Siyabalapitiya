@@ -63,8 +63,7 @@ Real-time object tracking system using Python, OpenCV, and YOLO. Detects and fol
 - **Tech:** Python, OpenCV, YOLO, Serial I/O
 
 ### Robotic Arm
-Custom-built robotic arm controlled with 420 motors and an ESP32. Features 16-to-32 tooth gear ratio for precise rotation and smooth mechanical operation.
-- **Tech:** Robotics, ESP32, CAD, 3D Printing
+Custom-built robotic arm controlled with 420 motors and an ESP32. Features 16-to-32 tooth gear ratio for precise rotatio
 
 ### MiniBot
 
