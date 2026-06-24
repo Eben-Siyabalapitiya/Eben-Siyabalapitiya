@@ -88,5 +88,7 @@ Real-time object tracking system using Python, OpenCV, and YOLO. Detects and fol
 
 **"Build things. Learn. Repeat."**
 
+*Explore my repositories to see what I'm building. Feel free to reach out if you want to collaborate on robotics, CV, ML, or any STEAM project!*
+
 
 </div>
