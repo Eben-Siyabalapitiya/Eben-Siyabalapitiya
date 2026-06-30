@@ -6,7 +6,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eben-Siyabalapitiya)
 ![Profile Views](https://komarev.com/ghpvc/?username=Eben-Siyabalapitiya&color=blueviolet)
 
-
 </div>
 
 I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and hardware**.
