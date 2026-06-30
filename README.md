@@ -15,7 +15,6 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 ![Snake animation](https://raw.githubusercontent.com/Eben-Siyabalapitiya/Eben-Siyabalapitiya/output/dist/github-contribution-grid-snake-dark.svg)
 
 
-
 ## Tech Stack
 
 **Languages:**
