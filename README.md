@@ -3,7 +3,6 @@
 
 <div align="center">
 
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eben-Siyabalapitiya)
 ![Profile Views](https://komarev.com/ghpvc/?username=Eben-Siyabalapitiya&color=blueviolet)
 
