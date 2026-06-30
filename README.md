@@ -11,7 +11,6 @@
 I'm a **developer and builder** passionate about machine learning, computer vision, robotics, and automotive engineering. I spend most of my time creating things that sit at the intersection of **software and hardware**.
 ---
 
-
 ![Snake animation](https://raw.githubusercontent.com/Eben-Siyabalapitiya/Eben-Siyabalapitiya/output/dist/github-contribution-grid-snake-dark.svg)
 
 
