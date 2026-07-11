@@ -46,6 +46,10 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ---
 
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=50327&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+---
+
 ## What I Build
 I'm driven by the STEAM philosophy and love working across different disciplines. Most of my projects start as something I wanted to build, and many of them have turned into real, functioning systems.
 
@@ -65,6 +69,7 @@ A tiny desk robot I built that actually has a personality. Runs on an ESP32, sho
 ### XORA Real Time Sensing & ML Systems
 A camera free human motion tracking system that uses WiFi Channel State Information and a CNN+LSTM model to locate people in a room. Four ESP32 nodes stream amplitude data to a Flask backend, which renders a live 2D heatmap and a hand rolled 3D room view, no cameras needed.
 **Tech:** Python, TensorFlow, Signal Processing, WiFi CSI, ESP32, Edge ML
+
 ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B9GR7TPKK/Eben-Siyabalapitiya/Xora)
 
 ### Sign Language Translator AI
