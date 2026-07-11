@@ -65,7 +65,7 @@ A tiny desk robot I built that actually has a personality. Runs on an ESP32, sho
 ### XORA Real Time Sensing & ML Systems
 A camera free human motion tracking system that uses WiFi Channel State Information and a CNN+LSTM model to locate people in a room. Four ESP32 nodes stream amplitude data to a Flask backend, which renders a live 2D heatmap and a hand rolled 3D room view, no cameras needed.
 **Tech:** Python, TensorFlow, Signal Processing, WiFi CSI, ESP32, Edge ML
-[Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B9GR7TPKK/Eben-Siyabalapitiya/Xora)
+![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B9GR7TPKK/Eben-Siyabalapitiya/Xora)
 
 ### Sign Language Translator AI
 A real time sign language recognition system that uses a webcam to detect hand gestures and convert them into spoken words in under a second. Tracks 21 hand landmarks, classifies gestures with a trained neural network, and hits 95.4% validation accuracy across 15 gesture classes with live confidence scoring.
