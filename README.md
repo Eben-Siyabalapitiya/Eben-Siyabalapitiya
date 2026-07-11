@@ -47,30 +47,34 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 ---
 
 ## What I Build
-
 I'm driven by the STEAM philosophy and love working across different disciplines. Most of my projects start as something I wanted to build, and many of them have turned into real, functioning systems.
 
-- **Computer Vision & AI Systems** - Real time object detection, tracking, and autonomous targeting
-- **Robotics & Mechatronics** - Custom robotic systems with hardware control and precision engineering
-- **Machine Learning** - Training models for specialized tasks like plant disease detection
-- **Full-Stack Development** - Bringing projects to life across the software stack
+- **Computer Vision & AI Systems** — Real time object detection, tracking, and autonomous targeting
+- **Robotics & Mechatronics** — Custom robotic systems with hardware control and precision engineering
+- **Machine Learning** — Training models for specialized tasks like plant disease detection
+- **Full-Stack Development** — Bringing projects to life across the software stack
 
 ---
 
 ## Featured Projects
 
-### Auto-Targeting Turret System
-A computer vision turret that detects and locks onto red targets in real-time. Tracks movement, calculates offset and distance, and sends live commands to an ESP32 for physical aim control.
-- **Tech:** Python, OpenCV, YOLO, Arduino, Serial Communication
+### LUMA
+A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. Also pulls live weather, keeps time, and has a calendar, basically just sitting on your desk vibing.
+**Tech:** ESP32 S3, C++, LVGL, Embedded, Open Source
 
-### Plant Disease Detection
-An ML-powered plant disease detector trained on 70,000+ images across 38 disease classes with 93.5% accuracy. Takes a photo of a plant and instantly identifies what's wrong.
-- **Tech:** Python, TensorFlow, TFLiteConverter, Computer Vision
+### XORA Real Time Sensing & ML Systems
+A camera free human motion tracking system that uses WiFi Channel State Information and a CNN+LSTM model to locate people in a room. Four ESP32 nodes stream amplitude data to a Flask backend, which renders a live 2D heatmap and a hand rolled 3D room view, no cameras needed.
+**Tech:** Python, TensorFlow, Signal Processing, WiFi CSI, ESP32, Edge ML
 
-### AI Vision Tracking System
-Real-time object tracking system using Python, OpenCV, and YOLO. Detects and follows people through a webcam feed, identifies humans only, assigns consistent IDs, and sends processed position data to serial devices.
-- **Tech:** Python, OpenCV, YOLO, Serial I/O
+### Sign Language Translator AI
+A real time sign language recognition system that uses a webcam to detect hand gestures and convert them into spoken words in under a second. Tracks 21 hand landmarks, classifies gestures with a trained neural network, and hits 95.4% validation accuracy across 15 gesture classes with live confidence scoring.
+**Tech:** Python, TensorFlow, MediaPipe, OpenCV, Computer Vision
 
+### Robotic Arm
+A custom built robotic arm controlled with N20 motors and an ESP32, featuring a 16 to 32 tooth gear ratio on the base for precise rotation.
+**Tech:** Robotics, ESP32, Arduino, N20 Motors, CAD, 3D Printing
+
+There's a lot more on my [portfolio](https://ebensiyabalapitiya.site/projects), these are just a few I'm proud of.
 ## Always Learning
 
 - Advanced autonomous systems
