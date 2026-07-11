@@ -59,7 +59,7 @@ I'm driven by the STEAM philosophy and love working across different disciplines
 ## Featured Projects
 
 ### LUMA
-A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. Also pulls live weather, keeps time, and has a calendar, basically just sitting on your desk vibing.
+A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. Also pulls live weather, keeps time, and has a calendar, basically just sitting on your desk chillin.
 **Tech:** ESP32 S3, C++, LVGL, Embedded, Open Source
 
 ### XORA Real Time Sensing & ML Systems
@@ -75,6 +75,7 @@ A custom built robotic arm controlled with N20 motors and an ESP32, featuring a 
 **Tech:** Robotics, ESP32, Arduino, N20 Motors, CAD, 3D Printing
 
 There's a lot more on my [portfolio](https://ebensiyabalapitiya.site/projects), these are just a few I'm proud of.
+
 ## Always Learning
 
 - Advanced autonomous systems
