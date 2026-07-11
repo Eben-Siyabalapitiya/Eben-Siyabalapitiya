@@ -46,7 +46,7 @@ I'm a **developer and builder** passionate about machine learning, computer visi
 
 ---
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=50327&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=50327&api_domain=hackatime.hackclub.com&theme=neon&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
 
@@ -66,6 +66,8 @@ I'm driven by the STEAM philosophy and love working across different disciplines
 A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. Also pulls live weather, keeps time, and has a calendar, basically just sitting on your desk chillin.
 **Tech:** ESP32 S3, C++, LVGL, Embedded, Open Source
 
+![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B9GR7TPKK/Eben-Siyabalapitiya/LUMA)
+
 ### XORA Real Time Sensing & ML Systems
 A camera free human motion tracking system that uses WiFi Channel State Information and a CNN+LSTM model to locate people in a room. Four ESP32 nodes stream amplitude data to a Flask backend, which renders a live 2D heatmap and a hand rolled 3D room view, no cameras needed.
 **Tech:** Python, TensorFlow, Signal Processing, WiFi CSI, ESP32, Edge ML
@@ -75,6 +77,8 @@ A camera free human motion tracking system that uses WiFi Channel State Informat
 ### Sign Language Translator AI
 A real time sign language recognition system that uses a webcam to detect hand gestures and convert them into spoken words in under a second. Tracks 21 hand landmarks, classifies gestures with a trained neural network, and hits 95.4% validation accuracy across 15 gesture classes with live confidence scoring.
 **Tech:** Python, TensorFlow, MediaPipe, OpenCV, Computer Vision
+
+![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B9GR7TPKK/Eben-Siyabalapitiya/Sign-language-translator)
 
 ### Robotic Arm
 A custom built robotic arm controlled with N20 motors and an ESP32, featuring a 16 to 32 tooth gear ratio on the base for precise rotation.
