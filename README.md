@@ -1,4 +1,4 @@
-# Hi there, I'm Eben Siyabalapitiya
+# Hoii, I'm Eben Siyabalapitiya
 
 
 <div align="center">
