@@ -62,6 +62,19 @@ I'm driven by the STEAM philosophy and love working across different disciplines
 
 ## Featured Projects
 
+### MNDX — Makers N Devices
+
+A youth-led assistive tech nonprofit I co-founded and run. We build open source
+assistive devices and deliver them free to people with disabilities across Canada.
+Won a $4,225 grant through Makers Making Change by the Neil Squire Society, and
+we're currently mid-production on 8 Forest Hub control units plus a batch of 3D
+printed daily living aids. Everything from PCB ordering to soldering to delivery
+logistics runs through the club. Assistive tech is stupidly overpriced, so we
+just started building it ourselves.
+
+[![Website](https://img.shields.io/badge/Website-projectmndx.org-blueviolet?style=flat-square)](https://projectmndx.org/)
+[![Instagram](https://img.shields.io/badge/Instagram-@projectmndx-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/projectmndx/)
+
 ### LUMA
 A tiny desk robot I built that actually has a personality. Runs on an ESP32, shows animated eyes on a 1.8" TFT screen, and reacts to how you touch it. Also pulls live weather, keeps time, and has a calendar, basically just sitting on your desk chillin.
 **Tech:** ESP32 S3, C++, LVGL, Embedded, Open Source
