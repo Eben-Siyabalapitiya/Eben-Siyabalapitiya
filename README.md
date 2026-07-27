@@ -62,7 +62,7 @@ I'm driven by the STEAM philosophy and love working across different disciplines
 
 ## Featured Projects
 
-### MNDX — Makers N Devices
+### MNDX - Makers N Devices
 
 A youth-led assistive tech nonprofit I co-founded and run. We build open source
 assistive devices and deliver them free to people with disabilities across Canada.
